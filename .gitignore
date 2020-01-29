@@ -94,3 +94,15 @@ ENV/
 # Docker
 Dockerfile
 .dockerignore
+
+# gpg keys, certs, crt, pems
+*.gpg
+*.pgp
+*.key
+*.pem
+*.crt
+*.cer
+
+#garbage
+\#*\#
+*~
